@@ -20,4 +20,5 @@ First you need to compile the test with the next line from the main directory. T
 
 Then run the test
 > $ ./docs/tests
+
 This will give the result of the hash as the example provided by [PicoSHA2](https://github.com/okdshin/PicoSHA2) for the string ""The quick brown fox jumps over the lazy dog""
