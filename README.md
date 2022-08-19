@@ -10,8 +10,9 @@ To build the program in the main directory
 ## To run the example
 On the main directory
 > $ ./mtree
+
 This will give the hash result of creating a Merkle Tree with the input 
-> "
+> "The quick" + "brown fox" + "jumps" + "over the" + "lazy dog"
 
 ## To run the test
 First you need to compile the test with the next line from the main directory. This uses [Google Test](https://github.com/google/googletest)
